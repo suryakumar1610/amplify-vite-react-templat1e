@@ -21,7 +21,7 @@ function deleteTodo(id: string) {
   }
   return (
     <main>
-      <h1>Dileep</h1>
+      <h1>Surya</h1>
       <button onClick={createTodo}>+ new</button>
       <ul>
         {todos.map((todo) => (
